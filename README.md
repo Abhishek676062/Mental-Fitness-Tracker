@@ -35,8 +35,8 @@ Please note that the Mental Fitness Tracker is not a substitute for professional
 
 To run the Mental Fitness Tracker locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/mental-fitness-tracker.git`
-2. Navigate to the project directory: `cd mental-fitness-tracker`
+1. Clone the repository: `git clone https://github.com/Abhishek676062/Mental-Fitness-Tracker`
+2. Navigate to the project directory: `cd Mental-Fitness-Tracker`
 3. Open `index.html` in your web browser to access the application.
 
 ## Usage
