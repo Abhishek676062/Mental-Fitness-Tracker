@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mental Fitness Tracker - Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .result-container {
+            text-align: center;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .result-label {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .result-value {
+            font-size: 24px;
+            color: #4CAF50;
+        }
+
+        .back-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="result-container">
+        <h1>Mental Fitness Tracker</h1>
+        <div class="result-label">Your Mental Fitness Score </div>
+        <div class="result-value">{{ prediction * 10 }} %</div>
+    </div>
+    <a href="/" class="back-link">Back to Home</a>
+</body>
+</html>
