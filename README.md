@@ -1,8 +1,11 @@
 # Mental Fitness Tracker
+![MFS_logo](https://github.com/Abhishek676062/Mental-Fitness-Tracker/assets/81158782/bf40cf12-b8d2-4710-9ad5-749aac0ffb4b)
 
-![Mental Fitness Tracker Logo](link-to-your-logo.png) (If you have a logo, include it here)
 
-The Mental Fitness Tracker is a web application developed as part of my IBM internship project. The primary objective of this project is to help users monitor and improve their mental well-being.
+The Mental Fitness Tracker is a web application of AI development as part of my IBM  Artificial Intelligence internship project. The primary objective of this project is to help users monitor and improve their mental well-being.
+
+You can also explore Mental Fitness Tracker via video 
+[Mental-Fitness-Tracker](https://drive.google.com/file/d/1WqolTo8TOKeo2q4eTHKfjX6DGwD51egd/view?usp=drive_link)
 
 ## Table of Contents
 
@@ -20,7 +23,12 @@ The Mental Fitness Tracker is a web application developed as part of my IBM inte
 
 In our busy daily lives, it's essential to take care of our mental health. The Mental Fitness Tracker provides a user-friendly platform where individuals can track various aspects of their mental fitness and gain insights into their well-being. The application uses machine learning regression models to predict the user's mental fitness score based on a combination of numerical data and textual information provided by the user. The predicted score can offer valuable insights into one's mental well-being and serve as a guide to make positive changes in daily life.
 
-![Mental Fitness Tracker Screenshot](screenshot.png) (Include a screenshot of the application if available)
+## Mental Fitness Tracker - INPUT
+![Input of model](https://github.com/Abhishek676062/Mental-Fitness-Tracker/assets/81158782/5a3e3787-b106-479d-b013-9c8c135a6478)
+
+## Mental Fitness Tracker - OUTPUT
+![output of model](https://github.com/Abhishek676062/Mental-Fitness-Tracker/assets/81158782/8ac39d68-6a11-491f-9f08-23d884b6322a)
+
 
 Please note that the Mental Fitness Tracker is not a substitute for professional mental health advice. If you or someone you know is struggling with mental health issues, please seek support from a qualified mental health professional.
 
